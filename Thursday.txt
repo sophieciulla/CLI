@@ -2,4 +2,8 @@ Today is thursday
 Today is friday
 I'm going skiing tomorrow
 I'm excited
+<<<<<<< HEAD
 Changing this line that is supposed to conflict
+=======
+Adding a line that's supposed to conflict
+>>>>>>> Thanksgiving
