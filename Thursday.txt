@@ -2,3 +2,4 @@ Today is thursday
 Today is friday
 I'm going skiing tomorrow
 I'm excited
+Adding a line that's supposed to conflict
